@@ -1310,32 +1310,6 @@ section{width:100%;overflow: hidden;position:relative;background-size:cover;back
 
 
 
-#footer {
-    width: 1500px;
-    height: 100px;
-    position: absolute;
-    background: #57d9db;
-}
-
-#footer .foot3 {
-    width: 1500px;
-    height: 70px;
-    position: absolute;
-    margin: 0 auto;
-    text-align: center;
-    font: bold 13px "Malgun Gothic";
-    color: #fff;
-    margin-top: 10px;
-}
-
-#footer .foot3 h2 {
-    font: bold 13px "Malgun Gothic";
-    color: #fff;
-    margin-top: 20px;
-    text-align: center;
-}
-
-
 
 
 
